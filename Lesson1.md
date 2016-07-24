@@ -2,7 +2,7 @@
 
     In statistical quality control, decisions are made and plans are developed based on the collection and evaluation of actual data in the form of metrics, rather than intuition and experience. SQC follows the Shewhart cycle. The Shewhart cycle illustrates the following activity sequence: setting goals, assigning them to measurable milestones, and assessing the progress against those milestones. 
 
-SQC uses 7 tools at most. Pareto analysis, cause-and-effect diagram, flow chart, trend chart, histogram, scatter diagram, and control chart. 
+    SQC uses 7 tools at most. Pareto analysis, cause-and-effect diagram, flow chart, trend chart, histogram, scatter diagram, and control chart. 
 
     Control charts are tools used to determine if a process is in a state of control. If analysis of the control chart indicates that the process is currently under control, then no corrections or changes to process control parameters are needed or desired. 
     In addition, data from the process can be used to predict the future performance of the process. If the chart indicates that the monitored process is not in control, analysis of the chart can help determine the sources of variation, as this will result in degraded process performance. 
